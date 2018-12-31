@@ -768,7 +768,8 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 #### Base
 
 * Tell all the Android application components. [Android Official]
-                                                                 (https://developer.android.com/guide/components/fundamentals.html#Components) ## DONE
+                                                                 (https://developer.android.com/guide/components/fundamentals.html#Components) 
+## DONE
 
 * What is the structure of an Android Application?
 
